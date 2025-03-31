@@ -5,3 +5,4 @@
 | 28/3  | 11h   | heatbed and nema 17 and redesigned the whole thing on paper 😭i was going with a design like bambu but shifted to ender like|
 | 29/3  | 7h   | CAD for the random things and made bom |
 | 31/3  | 10h   | assembly and made the y axis not full  |
+| 31/3|10min|exported all files and uploed to github|
