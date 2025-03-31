@@ -6,4 +6,4 @@
 | 29/3  | 7h   | CAD for the random things and made bom |
 | 31/3  | 10h   | assembly and made the y axis not full  |
 | 31/3|1hr|exported all files and uploed to github and add imgs 🎉 also today i leaned that we can move components using the mouse and no need to use M key 😂 also added the bom and dont jugde me okay i still use excel 😭|
-|1/4|30min|did the bom secier not in google sheets in excel ofc |
+|1/4|30min| |
