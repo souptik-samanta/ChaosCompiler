@@ -1,4 +1,4 @@
-# ChaosCompiler <br>![image](https://github.com/user-attachments/assets/b47bb6ec-0705-45ea-9616-e4e374b5b486)
+# ChaosCompiler <br>
 This is what my printer looks like rn: <br>
 ![image](https://github.com/user-attachments/assets/96cb2c57-c7bb-4b49-ba75-2b1eda4b2b14) <br>
 this takes area of 400mm^2 <br>
