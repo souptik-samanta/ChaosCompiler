@@ -7,4 +7,4 @@
 | 31/3  | 10h   | assembly and made the y axis not full  |
 | 31/3|1hr|exported all files and uploed to github and add imgs 🎉 also today i leaned that we can move components using the mouse and no need to use M key 😂 also added the bom and dont jugde me okay i still use excel 😭 made some minr changes in my drawing |
 |1/4|30min| tried to find for cheap but shii didnt got any and even if i got they have no hcb suport|
-|1/4|1.5hr|made the 2020 rails the ones i was using were of diff dimensions|
+|1/4|1.5hr|made the 2020 rails the ones i was using were of diff dimensions https://hackclub.slack.com/archives/C08B7LF58TX/p1743497795204829 |
