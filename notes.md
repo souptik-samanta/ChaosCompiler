@@ -27,5 +27,5 @@
 | 8/4 | 2h | Designed a holder for Z axis (with bed) also read this | [Link](https://3ddistributed.com/corexy-3d-printer/corexy-kinematics) *(will add img later as it's making probs)* |
 | 8/4 | 10min | Added support | *(will add img later as it's making probs)* |
 | 8/4 | 33min | Watched this so I understand this more as I am unable to think how is the pulley connected to 2020 | [YouTube](https://www.youtube.com/watch?v=yuAN5AzEWCg) |
-| 8/4 | 2h | Making the Z mechanism so my Z works with only one motor (but I think 2 is better), I will do 2 later… Also I will be making the bed holder myself (to cut costs ofc) so making the Z axis mech — it was rods with lead screw earlier but now it’s same but improved lol |  |
+| 8/4 | 2h | Making the Z mechanism so my Z works with only one motor (but I think 2 is better), I will do 2 later… Also I will be making the bed holder myself (to cut costs ofc) so making the Z axis mech — it was rods with lead screw earlier but now it’s same but improved lol | ispiration https://www.youtube.com/watch?v=yuAN5AzEWCg&t=919s T = 10:40 |
 
