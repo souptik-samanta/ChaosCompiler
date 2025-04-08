@@ -22,7 +22,7 @@
 |7/4|1hr| made the x axs rail holder||
 |7/4 |``1hr|worked with the x axis but this shi is hard and i am crashing out becoz i did hackducky ysws pcb (pcb team) then infill its ig 15hr me being near the screen i am feeling so sleeply fk||
 |7/4|2hr |design the tool changer like how the hell it will work and reseach ||
-|8/4|2hr| designed a holder for z axis (with bed) also reasd this https://3ddistributed.com/corexy-3d-printer/corexy-kinematics |will ad img later as its making probs|
+|8/4 | 2hr| designed a holder for z axis (with bed) also reasd this https://3ddistributed.com/corexy-3d-printer/corexy-kinematics | will ad img later as its making probs |
 
 |8/4|10mins|added suport|will ad img later as its making probs|
 |8/4|33mins|watched this so i understand this more as i am unable to think how is the pully connected to 2020 |https://www.youtube.com/watch?v=yuAN5AzEWCg|
