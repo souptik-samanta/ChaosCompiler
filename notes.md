@@ -22,9 +22,9 @@
 |7/4|1hr| made the x axs rail holder||
 |7/4 |``1hr|worked with the x axis but this shi is hard and i am crashing out becoz i did hackducky ysws pcb (pcb team) then infill its ig 15hr me being near the screen i am feeling so sleeply fk||
 |7/4|2hr |design the tool changer like how the hell it will work and reseach ||
-|8/4|2hr| designed a holder for z axis (with bed) also reasd this https://3ddistributed.com/corexy-3d-printer/corexy-kinematics |[image](https://github.com/user-attachments/assets/85882514-f40b-4f2b-add5-1584e5d33c29)|
+|8/4|2hr| designed a holder for z axis (with bed) also reasd this https://3ddistributed.com/corexy-3d-printer/corexy-kinematics |will ad img later as its making probs|
 
-|8/4|10mins|added suport|![image](https://github.com/user-attachments/assets/c462d8c9-b986-4849-9c02-72d4511a749b)|
+|8/4|10mins|added suport|will ad img later as its making probs|
 |8/4|33mins|watched this so i understand this more as i am unable to think how is the pully connected to 2020 |https://www.youtube.com/watch?v=yuAN5AzEWCg|
 |8/4|2hr|making the z mechanism so my z works with only one motor (but i think 2 is btter) i will 2 later... also i will be making the bed holder myself (to cut costs ofc) so making the z axis mech it was rods with lead scew earlier but now its same but improved lol|
 
