@@ -1,4 +1,4 @@
-
+?8/4|10mns|
 | Date  | Time | Notes    |
 |-------|------|---------|
 | 26/3  | 5h   | Designing and made a est. bill of mat. on paper |
@@ -26,4 +26,5 @@
 |8/4|2hr|designed a holder for z axis (with bed) also reasd this https://3ddistributed.com/corexy-3d-printer/corexy-kinematics/ |
 ![image](https://github.com/user-attachments/assets/85882514-f40b-4f2b-add5-1584e5d33c29)
 
-|
+|8/4|10mins|added suport|![image](https://github.com/user-attachments/assets/c462d8c9-b986-4849-9c02-72d4511a749b)|
+
