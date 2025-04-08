@@ -1,6 +1,5 @@
-
 | Date  | Time | Notes    |pics if any or links|
-|-------|------|---------||
+|-------|------|---------|---------|
 | 26/3  | 5h   | Designing and made a est. bill of mat. on paper ||
 | 27/3  | 3h   | making rails and other misc parts ||
 | 28/3  | 11h   | heatbed and nema 17 and redesigned the whole thing on paper 😭i was going with a design like bambu but shifted to ender like||
