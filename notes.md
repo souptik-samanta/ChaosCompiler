@@ -23,7 +23,7 @@
 |7/4 |``1hr|worked with the x axis but this shi is hard and i am crashing out becoz i did hackducky ysws pcb (pcb team) then infill its ig 15hr me being near the screen i am feeling so sleeply fk||
 |7/4|2hr |design the tool changer like how the hell it will work and reseach ||
 |8/4|2hr|designed a holder for z axis (with bed) also reasd this https://3ddistributed.com/corexy-3d-printer/corexy-kinematics/ |
-![image](https://github.com/user-attachments/assets/85882514-f40b-4f2b-add5-1584e5d33c29)
+![image](https://github.com/user-attachments/assets/85882514-f40b-4f2b-add5-1584e5d33c29)|
 
-|8/4|10mins|added suport|![image](https://github.com/user-attachments/assets/c462d8c9-b986-4849-9c02-72d4511a749b)
+|8/4|10mins|added suport|![image](https://github.com/user-attachments/assets/c462d8c9-b986-4849-9c02-72d4511a749b)|
 
