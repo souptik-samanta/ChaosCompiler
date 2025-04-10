@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/be8b0d19-32dc-4f9d-9207-3e7ea432ba0c)
+![image](https://github.com/user-attachments/assets/2eefbe1f-2f85-43e6-a543-48a2b9c85687)
+
 ### ✅ Total Time Spent: 63h 13min
 ---
 | **Date** | **Time** | **Notes** | **Pics / Links** |
