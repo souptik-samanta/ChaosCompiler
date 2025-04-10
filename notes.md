@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/2eefbe1f-2f85-43e6-a543-48a2b9c85687)
 
-### ✅ Total Time Spent: 63h 13min
+### ✅ Total Time Spent: 73.03
 ---
 | **Date** | **Time** | **Notes** | **Pics / Links** |
 |----------|----------|-----------|------------------|
