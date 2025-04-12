@@ -63,7 +63,8 @@ BOM
 
 ## With the Belts:
 
-![image](https://github.com/user-attachments/assets/aa236679-3217-4aed-830c-ce2105aae34c)
+![image](https://github.com/user-attachments/assets/3677386c-c424-4aaf-881d-214cb3d7efc7)
+
 
 ---
 
