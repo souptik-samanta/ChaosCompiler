@@ -1,3 +1,16 @@
+
+ Design
+
+* CoreXY + an unknown flavor of Z-axis (let’s call it “Cartesian-ish” 💀)
+* So yeah… it’s a Cortesian XYZ :hu-cry:
+
+
+ Features
+
+* multicolor (automatic)(with mmu)
+* auto print remover
+
+
 :thought_balloon:  thought:
 
 Went as cheap as possible, sourcing everything within India :indiaparrot: (spoiler: India is expensive af ).
