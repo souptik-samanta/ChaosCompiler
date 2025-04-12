@@ -37,5 +37,5 @@
 |9\4|30mins|did some small changes like many changes to describe .. the final touches and now it looks likt this ams / mmu left|![image](https://github.com/user-attachments/assets/f581b0b0-5abd-4208-8182-9d3b6cefc4d8)|
 |10\4|8hr |made the bom, finish the printer, added belts , now left to check the bom, designed many mmu design in paper , got a good cheap option.. and made the mmu too ofc the mmu might need some iterations but okay ..its still big achievement for me that i made mmu myself 💀... also adjusted everypart ,, kinda finished .. ready to review |![image](https://github.com/user-attachments/assets/10f545e8-2b95-466f-a843-f18481e14bff)|
 |12\8|3HRR |MADE THE HOTEND FINER LIKE REMOVED MANY UBUMPS AND ALL AND wait why tf is it caps 😭 soo. and added the a support with v weels to the build plate z axis so the buildplate doesnt wobble much ..| mo pfotos today"or watilet me show that ![image](https://github.com/user-attachments/assets/8d17649a-b4b4-4dd2-8f0c-24716cc98a78)|
-|
+
 ---
