@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/e4b971c5-741b-4167-a3f9-a15804457125)
 
 
 ### ✅ Total Time Spent: 77.03
