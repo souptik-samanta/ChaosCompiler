@@ -1,8 +1,8 @@
 ##  Design
 
 - **CoreXY** 
-- + an *unknown flavor* of Z-axis (let’s just call it *Cartesian-ish* 💀)  
-- So yeah… it’s a **Cortesian XYZ** 
+- ~+ an *unknown flavor* of Z-axis (let’s just call it *Cartesian-ish* 💀)  ~
+- ~So yeah… it’s a **Cortesian XYZ** ~
 ---
 
 ##  Features
