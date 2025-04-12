@@ -25,7 +25,7 @@ So instead of buying multiple machines and racking up costs, I said, "*What if..
 I don’t even know how I stayed this dedicated.
 
 We're talking:
-- **64+ hours**
+- **75+ hours**
 - **Multiple mood swings** (per day ig?)
 - Learning **both Cartesian and CoreXY** systems  
 (because why suffer once when you can suffer *twice*, right?)  
