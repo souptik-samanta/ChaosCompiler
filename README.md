@@ -56,6 +56,10 @@ They made me **learn two motion systems at once**.
 
 ![image](https://github.com/user-attachments/assets/c2e7f595-6bf5-4305-a476-45951381735e)
 
+## With the Belts:
+
+![image](https://github.com/user-attachments/assets/aa236679-3217-4aed-830c-ce2105aae34c)
+
 ---
 
 ## TL;DR
