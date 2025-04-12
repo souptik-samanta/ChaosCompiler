@@ -16,7 +16,7 @@
 
 I went *as cheap as humanly possible*, sourcing *everything* within India :indiaparrot:.  
 Spoiler alert: **India is expensive af** when it comes to hobby electronics.  
-So instead of buying multiple machines and racking up costs, I said, "*What if... I go wild and build a full-on tool exchanger?*"  
+
 
 ---
 
