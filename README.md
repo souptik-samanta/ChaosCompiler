@@ -5,6 +5,8 @@
 - will use a pi 4 for its calcs and all 
 - ~+ an *unknown flavor* of Z-axis (let’s just call it *Cartesian-ish* 💀)~
 - ~So yeah… it’s a **Cortesian XYZ**~
+- auto print remover
+
 ---
 
 ##  Features
