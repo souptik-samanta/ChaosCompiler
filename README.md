@@ -1,8 +1,17 @@
-# ChaosCompiler <br>
-This is what my printer looks like rn: <br>
-![image](https://github.com/user-attachments/assets/96cb2c57-c7bb-4b49-ba75-2b1eda4b2b14) <br>
-this takes area of 400mm^2 <br>
-![image](https://github.com/user-attachments/assets/f1a4a853-1c86-41b2-88e2-5dff52b93a33) <br>
-the y aixis: <br> ![image](https://github.com/user-attachments/assets/436b5889-f398-41ec-b3ac-996542d06512) <br>
-y axis i will add a holding brackt too: <br>
-![image](https://github.com/user-attachments/assets/3495e83a-6e67-4dd7-bd47-965e70f472c4) <br>
+:thought_balloon:  thought:
+
+Went as cheap as possible, sourcing everything within India :indiaparrot: (spoiler: India is expensive af ).
+ Instead of buying multiple machines,and adding costs. I went wild and built a tool exchanger .
+
+crazy part
+
+I don’t even know how I stayed this dedicated.
+ I put in a stack(64)+ hours, mood swings and all.
+ Learned both Cartesian and CoreXY systems (because why suffer once when you can suffer twice, right?)
+ Maybe mood swings are actually underrated 😭(I love mood swings :dance_catgirl: help me learn two things at onceee)
+BOM:https://docs.google.com/spreadsheets/d/1VOcx1vCP93SXvwvrw4UESpFi0AxCleXlYnAZV9N3jMY/edit?usp=sharing (new bom)
+log https://github.com/souptik-samanta/ChaosCompiler/blob/main/notes.md
+repo https://github.com/souptik-samanta/ChaosCompiler
+cad : 1 hot end https://a360.co/3FXtdJx
+2 the whole thing https://a360.co/3G4sTc2
+3 just the xy https://a360.co/426t92P
