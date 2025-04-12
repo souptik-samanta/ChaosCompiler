@@ -40,7 +40,9 @@ They made me **learn two motion systems at once**.
 
 - **BOM**: [New BOM Sheet](https://docs.google.com/spreadsheets/d/1VOcx1vCP93SXvwvrw4UESpFi0AxCleXlYnAZV9N3jMY/edit?usp=sharing)  
 - **Build Log**: [GitHub Log](https://github.com/souptik-samanta/ChaosCompiler/blob/main/notes.md)  
-- **Source Code & Firmware**: [ChaosCompiler Repo](https://github.com/souptik-samanta/ChaosCompiler)
+
+BOM 
+![image](https://github.com/user-attachments/assets/dc984c80-3bb9-4fc6-a29b-69e23738e542)
 
 ---
 
