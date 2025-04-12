@@ -1,19 +1,18 @@
 ##  Design
 
 - **custom CoreXY**
-- will be really fast
-- will use a pi 4 for its calcs and all 
 - ~+ an *unknown flavor* of Z-axis (let’s just call it *Cartesian-ish* 💀)~
 - ~So yeah… it’s a **Cortesian XYZ**~
-- auto print remover
 
 ---
 
 ##  Features
 
-- Fully **automatic multicolor printing** (thanks to a DIY MMU)
-- **Auto print removal** for that sweet hands-free experience
+-  **automatic multicolor printing** (
+- will be really fast
+- will use a pi 4 for its calcs and all 
 
+- auto print remover
 ---
 
 ##  Thought Process
