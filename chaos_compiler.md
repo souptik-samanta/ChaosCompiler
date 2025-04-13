@@ -13,10 +13,9 @@ Total hours so far: 0 \
 
 ## The plan:  
 1. cheap  
-2. sexy (If in budget)  
 3. minimum 3d printed parts as i dont have printer 💀  
 4. maybe smuggle some parts from china when my firend goes to China lol  
-5. print area of 300mm²  
+5. print area of 310mm²  
 6. made it md compatavle so it looks good in readme.md  
 
 ---
