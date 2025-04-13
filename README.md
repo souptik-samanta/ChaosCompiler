@@ -50,7 +50,9 @@ BOM
 ![image](https://github.com/user-attachments/assets/dc984c80-3bb9-4fc6-a29b-69e23738e542)
 
 ---
-
+Thanks yo HACKCLUB and Alex Ren
+Without them this would have nott been posible.
+---
 ##  CAD Files
 
 - [Single Hotend Assembly](https://a360.co/3FXtdJx)  
