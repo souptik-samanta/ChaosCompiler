@@ -8,16 +8,18 @@
 
 ##  Features
 
--  **automatic multicolor printing** (
-- will be really fast
-- will use a pi 4 for its calcs and all 
 
+- will be really fast(core xy)
+- will use a pi 4 for its calcs and all
+- automatic multicolor printing
 - auto print remover
+- Big 310 X 310 X 380
+- Auto bed leveling
 ---
 
 ##  Thought Process
 
-I went *as cheap as humanly possible*, sourcing *everything* within India :indiaparrot:.  
+I went *as cheap as humanly possible*, sourcing *everything* within India.  
 Spoiler alert: **India is expensive af** when it comes to hobby electronics.  
 
 
@@ -73,6 +75,5 @@ BOM
 I built a **CoreXY-Cartesian hybrid 3D printer**  
 with **manual tool changing**, **automatic multicolor**, and **auto eject**,  
 all on a budget, in India,  
-from scratch,  
 by myself,  
 with caffeine, breakdowns, and vibes 
