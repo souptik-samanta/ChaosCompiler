@@ -29,6 +29,8 @@
 - the bed is very big and a glass build plate 
 - the bed leveling sensor will work and do the calculations in the firmware so the first layer is printed correctly and no stringing issue 
 - the servo for auto print remove will turn on and push the print out and print removed .
+- the hot end cooled with the fan on frond and the inside part with the fan on side </br>![image](https://github.com/user-attachments/assets/0bfb879b-00e8-42b1-a770-25ff2abe0873)
+
 ##  Thought Process
 
 I went *as cheap as humanly possible*, sourcing *everything* within India.  
