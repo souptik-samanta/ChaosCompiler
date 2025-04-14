@@ -19,8 +19,9 @@
 ## Mechanism
 - the core xy mech gives me a faster speed ..
 - the pi 4 will be used to run klipper
-- the mmu unit has one servo and a rod that will move all the extruder gears and the servo will move a rod that will press a filament gear againt the filament gear of the desired color when it presses over it the filament comes out there is no buffer so i am totally on filament sensors 
+- the mmu unit has one servo and a rod that will move all the extruder gears and the servo will move a rod that will press a filament gear againt the filament gear of the desired color when it presses over it the filament comes out there is no buffer so i am totally on filament sensors </br>
 ![image](https://github.com/user-attachments/assets/e194372e-0d3c-43a0-b6ca-9d0f9ecf97a1)
+**</br>**
 - the servo moves the upper rod and stepper moves the rod in with all the extruder gears.
 - the bed is very big and a glass build plate 
 - the bed leveling sensor will work and do the calculations in the firmware so the first layer is printed correctly and no stringing issue 
