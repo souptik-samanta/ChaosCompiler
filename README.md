@@ -18,6 +18,9 @@
 ---
 ## Mechanism
 - the core xy mech gives me a faster speed ..
+- core xy with alpha and beta motors to move the print head with good accuracy and lightninh spped </br>
+![image](https://github.com/user-attachments/assets/a7243b92-6a62-429e-857b-2abc0ea881ad)
+
 - the pi 4 will be used to run klipper
 - the mmu unit has one servo and a rod that will move all the extruder gears and the servo will move a rod that will press a filament gear againt the filament gear of the desired color when it presses over it the filament comes out there is no buffer so i am totally on filament sensors </br>
 ![image](https://github.com/user-attachments/assets/e194372e-0d3c-43a0-b6ca-9d0f9ecf97a1)
