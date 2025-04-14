@@ -26,7 +26,7 @@
 </br>![image](https://github.com/user-attachments/assets/63fb2703-6142-405c-addb-55b013b764ea)
 
 - the mmu unit has one servo and a rod that will move all the extruder gears and the servo will move a rod that will press a filament gear againt the filament gear of the desired color when it presses over it the filament comes out there is no buffer so i am totally on filament sensors </br>
-![image](https://github.com/user-attachments/assets/e194372e-0d3c-43a0-b6ca-9d0f9ecf97a1)
+
 **</br>**
 - the servo moves the upper rod and stepper moves the rod in with all the extruder gears.
 - the bed is very big and a glass build plate 
